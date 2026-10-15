@@ -1,2 +1,7 @@
 .venv/
 .DS_Store
+.hf_cache/
+.mplconfig/
+data/
+docs/
+models/
